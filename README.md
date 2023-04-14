@@ -1,4 +1,4 @@
-git clone https://github.com/roccoamico/oh-my-zsh.git ~/.oh-my-custom-zsh
+git clone git@github.com:roccoamico/oh-my-zsh.git ~/.oh-my-custom-zsh
 
 ln -s $HOME/.oh-my-zsh/git/.gitconfig $HOME/.gitconfig
 
