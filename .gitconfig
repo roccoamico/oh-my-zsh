@@ -1,6 +1,4 @@
-[pull]
-  ff = only
-[includeIf "gitdir:~/Workspace/Beliven - GitHub.com/"]
-  path = ~/.oh-my-zsh/git/.gitconfig_github
-[includeIf "gitdir:~/Workspace/GitLabCE/"]
-  path = ~/.oh-my-zsh/git/.gitconfig_gitlabce
+[user]
+  name = Rocco Amico
+  email = 121301789+roccoamico@users.noreply.github.com
+  username = roccoamico
